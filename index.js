@@ -22,4 +22,4 @@ app.listen(port,()=>{
     console.log(`app running on http://localhost:${port}`);
     
 })
-digitalocean,heroku,railway,seenode, render,cyclic
+// digitalocean,heroku,railway,seenode, render,cyclic
